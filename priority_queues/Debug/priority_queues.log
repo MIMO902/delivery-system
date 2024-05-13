@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  queue.cpp
+c:\users\m.robot\desktop\mimo\delivery-system\priority_queues\queue.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\m.robot\desktop\mimo\delivery-system\priority_queues\queue.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  priority_queues.cpp
+c:\users\m.robot\desktop\mimo\delivery-system\priority_queues\queue.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  pqueue.cpp
+  Generating Code...
+  priority_queues.vcxproj -> C:\Users\M.ROBOT\Desktop\mimo\delivery-system\Debug\priority_queues.exe
